@@ -34,4 +34,5 @@ Absolutely, Asena executives do not accept responsibility.
 ### Heroku Vars
 
 1.`ADD_MESSAGE` :- Customizable Add Message! Use => `default,` to change back
+
 2.`AFK_MESSAGE` :- Customizable AFK Message! Use => `default,` to change back
