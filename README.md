@@ -1,7 +1,7 @@
 # Whatsapp User Bot
 
 
-![logo](https://c.tenor.com/N_2FgqAFzUoAAAAC/blackpink-kpop.gif)
+![logo](https://c.tenor.com/bSDqtL945XUAAAAC/blackpink-lisa-lisa-blackpink.gif)
 
 
 
