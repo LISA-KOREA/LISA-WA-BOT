@@ -31,5 +31,7 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 ```
-`ADD_MESSAGE :-` Customizable Add Message! Use => default, to change back
+### Heroku Vars
 
+`ADD_MESSAGE` :- Customizable Add Message! Use => `default,` to change back
+`AFK_MESSAGE` :- Customizable AFK Message! Use => `default,` to change back.
