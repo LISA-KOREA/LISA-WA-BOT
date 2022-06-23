@@ -17,7 +17,7 @@
 <a href="https://replit.com/@TelegramBots/Lisa"><img alt="replit" src="https://img.shields.io/badge/-String%20Session-black?style=for-the-badge&logo=replit&logoColor=white"/></a> 
 
 
-## Warning! Korea
+## ⚠️ Warning Korea
 
 ```
 유저봇 으로 인해 왓츠앱 계정이 차단될 수 있습니다.
@@ -25,9 +25,11 @@
 아세나 경영진은 절대 책임을 지지 않습니다.
 
 ```
-## Warning English
+## ⚠️ Warning English
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 ```
+
+
