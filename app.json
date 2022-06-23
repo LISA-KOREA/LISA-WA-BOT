@@ -1,5 +1,5 @@
 {
-    "name": "Lisa",
+    "name": "Lisa Whatsapp User Bot",
     "description": "Lisa korea 🇰🇷.",
     "logo": "https://te.legra.ph/file/135ff53bacbbdb034eb44.jpg",
     "keywords": ["whatsapp", "userbot", "Lisa", "WhatsAsena", "korea", "bot", "ai"],
@@ -72,7 +72,7 @@
         "HANDLERS": {
             "description": "For commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": "[.]"
         },
         "FULL_EVA": {
             "description": "Turn your account into a chatbot!",
