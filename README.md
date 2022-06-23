@@ -31,6 +31,8 @@ Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 ```
+![Logo](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
+
 ### Heroku Vars
 1. `ADD_MESSAGE` : Customizable Add Message! Use => `default,` to change back
 2. `AFK_MESSAGE` : Customizable AFK Message! Use => `default,` to change back
